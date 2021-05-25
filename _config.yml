@@ -66,8 +66,8 @@ footer:
   # If not defined, `author` from Hexo `_config.yml` will be used.
   copyright:
 
-  # Powered by Hexo & NexT
-  powered: true
+  # Powered by Hexo & NexT 由Next和Next themes 强力驱动
+  powered: false
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
@@ -995,9 +995,3 @@ vendors:
 css: css
 js: js
 images: images
-
-
-heme:
-  footer:
-    beian:
-      enable: false
